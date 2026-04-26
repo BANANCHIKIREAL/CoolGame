@@ -1,0 +1,40 @@
+{
+  "coins": 180635,
+  "selected_skin": "cosmic",
+  "unlocked_skins": [
+    "classic",
+    "ember",
+    "frost",
+    "royal",
+    "void",
+    "toxic",
+    "sunset",
+    "plasma",
+    "shadow",
+    "crimson",
+    "cyber",
+    "aurora",
+    "galaxy",
+    "nebula",
+    "cosmic",
+    "rainbow",
+    "electric",
+    "fire",
+    "ice",
+    "nature"
+  ],
+  "shop_levels": {
+    "start_damage": 4,
+    "start_health": 4,
+    "start_shield": 3,
+    "start_magnet": 4,
+    "coin_bonus": 4,
+    "start_multishot": 4,
+    "start_pierce": 4,
+    "start_regen": 4,
+    "start_crit": 4,
+    "start_drone": 3,
+    "xp_bonus": 4,
+    "start_dash": 4
+  }
+}
