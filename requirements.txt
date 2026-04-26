@@ -1,1 +1,2 @@
 pygame
+# Все остальные импорты (math, random, sys, json, time, dataclasses, pathlib, typing) являются встроенными в Python 3.x.
